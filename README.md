@@ -1,0 +1,2 @@
+# cheatsheets_typescript_java_equivalences
+Cheatsheets of label and sentences equivalences between programming languages
